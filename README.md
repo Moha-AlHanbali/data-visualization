@@ -7,7 +7,7 @@
 
 ## Description
 
-- These Notebooks analyzes data of _____ and visualizes it.
+- These Notebooks analyzes data of League of Legends Normal and Professional games and visualizes it.
 
 ## Change log
 
